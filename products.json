@@ -9,6 +9,11 @@
       "name": "Pulsera de Plata",
       "price": 15.50,
       "image_name": "10034.jpg"
+    },
+    {
+      "name": "Zarcillo",
+      "price": 5.50,
+      "image_name": "IMG_20260304_094858.jpg"
     }
   ]
 }
