@@ -1,0 +1,14 @@
+{
+  "product_list": [
+    {
+      "name": "Collar Turquesa",
+      "price": 25.00,
+      "image_name": "10018.jpg"
+    },
+    {
+      "name": "Pulsera de Plata",
+      "price": 15.50,
+      "image_name": "10034.jpg"
+    }
+  ]
+}
