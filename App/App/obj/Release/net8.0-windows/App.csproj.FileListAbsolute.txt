@@ -1,0 +1,7 @@
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\App.csproj.AssemblyReference.cache
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\ApplicationEvents.g.cs
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\App.g.cs
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\App_MarkupCompile.cache
+C:\Users\eduar\Documents\work\internal\eduardoos\turquesa.shop\StaticFiles\App\App\obj\Release\net8.0-windows\App_MarkupCompile.lref

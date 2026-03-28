@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\applicationevents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\applicationevents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\s3uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\s3uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\simplemessenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\simplemessenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|c:\\users\\eduar\\documents\\work\\internal\\eduardoos\\turquesa.shop\\staticfiles\\app\\app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842A40A6-1650-4689-AA0E-8C7596A87D55}|App\\App.csproj|solutionrelative:app\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "App\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "App\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:05:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationEvents.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\ApplicationEvents.xaml",
+              "RelativeDocumentMoniker": "App\\ApplicationEvents.xaml",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\ApplicationEvents.xaml",
+              "RelativeToolTip": "App\\ApplicationEvents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-28T10:04:13.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "App\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\RelayCommand.cs",
+              "RelativeToolTip": "App\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:55:45.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SimpleMessenger.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\SimpleMessenger.cs",
+              "RelativeDocumentMoniker": "App\\SimpleMessenger.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\SimpleMessenger.cs",
+              "RelativeToolTip": "App\\SimpleMessenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:47:49.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "S3UploadService.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\S3UploadService.cs",
+              "RelativeDocumentMoniker": "App\\S3UploadService.cs",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\S3UploadService.cs",
+              "RelativeToolTip": "App\\S3UploadService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:58:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\MainWindow.xaml",
+              "RelativeToolTip": "App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-28T08:39:40.512Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

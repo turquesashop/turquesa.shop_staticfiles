@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kkgj2PrEac=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eduar\\Documents\\work\\internal\\eduardoos\\turquesa.shop\\StaticFiles\\App\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduar\\.nuget\\packages\\awssdk.core\\4.0.3.24\\awssdk.core.4.0.3.24.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\awssdk.s3\\4.0.19.4\\awssdk.s3.4.0.19.4.nupkg.sha512",
+    "C:\\Users\\eduar\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}

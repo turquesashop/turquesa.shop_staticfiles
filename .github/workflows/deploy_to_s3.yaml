@@ -1,42 +1,42 @@
-name: Deploy Turquesa Store Content
+# name: Deploy Turquesa Store Content
 
-on:
-  push:
-    branches:
-      - main 
+# on:
+#   push:
+#     branches:
+#       - main 
 
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
+# jobs:
+#   deploy:
+#     runs-on: ubuntu-latest
 
-    steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+#     steps:
+#       - name: 📥 Checkout repository
+#         uses: actions/checkout@v4
 
-      - name: 🛡️ Validate products.json
-        run: |
-          echo "Checking if the JSON file is valid..."
-          jq . products.json
-          echo "JSON is perfectly formatted!"
+#       - name: 🛡️ Validate products.json
+#         run: |
+#           echo "Checking if the JSON file is valid..."
+#           jq . products.json
+#           echo "JSON is perfectly formatted!"
 
-      - name: 🔑 Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v4
-        with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: us-east-1 
+#       - name: 🔑 Configure AWS Credentials
+#         uses: aws-actions/configure-aws-credentials@v4
+#         with:
+#           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+#           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+#           aws-region: us-east-1 
 
-      - name: 🖼️ Extract, Flatten, and Sync Images to S3
-        run: |
-          # 1. Create a temporary folder on the GitHub runner
-          mkdir -p ./flat_img
+#       - name: 🖼️ Extract, Flatten, and Sync Images to S3
+#         run: |
+#           # 1. Create a temporary folder on the GitHub runner
+#           mkdir -p ./flat_img
           
-          # 2. Find every file inside ./img (no matter how deep) and copy it to ./flat_img
-          find ./img -type f -exec cp {} ./flat_img/ \;
+#           # 2. Find every file inside ./img (no matter how deep) and copy it to ./flat_img
+#           find ./img -type f -exec cp {} ./flat_img/ \;
           
-          # 3. Sync the flat folder to S3 (this keeps the --delete feature working flawlessly)
-          aws s3 sync ./flat_img/ s3://turquesa.shop-images/product/images/ --delete
+#           # 3. Sync the flat folder to S3 (this keeps the --delete feature working flawlessly)
+#           aws s3 sync ./flat_img/ s3://turquesa.shop-images/product/images/ --delete
 
-      - name: 📄 Upload products.json to S3 
-        run: |
-          aws s3 cp products.json s3://turquesa.shop-images/product/images/products.json --cache-control "no-cache, no-store, must-revalidate"
+#       - name: 📄 Upload products.json to S3 
+#         run: |
+#           aws s3 cp products.json s3://turquesa.shop-images/product/images/products.json --cache-control "no-cache, no-store, must-revalidate"
