@@ -10,7 +10,7 @@ namespace Editor.Views
 		public SortView()
 		{
 			InitializeComponent();
-			DataContext = new SortViewModel();
+			//DataContext = new SortViewModel("");
 		}
 	}
 }

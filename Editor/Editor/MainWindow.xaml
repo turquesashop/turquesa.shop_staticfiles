@@ -90,7 +90,7 @@
 										</Setter>
 									</DataTrigger>
 
-									<DataTrigger Binding="{Binding Header}" Value="Editar">
+									<DataTrigger Binding="{Binding Header}" Value="Modificar">
 										<Setter Property="ContentTemplate">
 											<Setter.Value>
 												<DataTemplate>
@@ -108,6 +108,17 @@
 												</DataTemplate>
 											</Setter.Value>
 										</Setter>
+									</DataTrigger>
+
+									<DataTrigger Binding="{Binding Header}" Value="Config">
+										<Setter Property="ContentTemplate">
+											<Setter.Value>
+												<DataTemplate>
+													<views:ConfigView />
+												</DataTemplate>
+											</Setter.Value>
+										</Setter>
+
 									</DataTrigger>
 
 								</Style.Triggers>

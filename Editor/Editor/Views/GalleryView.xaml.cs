@@ -10,7 +10,7 @@ namespace Editor.Views
 		public GalleryView()
 		{
 			InitializeComponent();
-			DataContext = new GalleryViewModel();
+			//DataContext = new GalleryViewModel();
 		}
 	}
 }

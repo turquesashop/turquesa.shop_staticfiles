@@ -15,15 +15,15 @@ using System.Windows.Shapes;
 
 namespace Editor.Views
 {
-	/// <summary>
-	/// Interaction logic for CreateView.xaml
-	/// </summary>
-	public partial class CreateView : UserControl
-	{
-		public CreateView()
-		{
-			InitializeComponent();
-			//DataContext = new CreateViewModel();
-		}
-	}
+    /// <summary>
+    /// Interaction logic for ConfigView.xaml
+    /// </summary>
+    public partial class ConfigView : UserControl
+    {
+        public ConfigView()
+        {
+            InitializeComponent();
+            //DataContext = new ConfigViewModel();
+        }
+    }
 }

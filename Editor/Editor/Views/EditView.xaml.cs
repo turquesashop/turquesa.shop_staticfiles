@@ -10,7 +10,7 @@ namespace Editor.Views
 		public EditView()
 		{
 			InitializeComponent();
-			DataContext = new EditViewModel();
+			//DataContext = new EditViewModel();
 		}
 	}
 }
